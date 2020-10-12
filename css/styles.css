@@ -1,0 +1,27 @@
+body {
+  background-image:
+  background-color:#faf3dd;
+  font-style: italic;
+  font-weight: bold;
+}
+hr {background-position: center;
+  background-color:#faf3dd;
+  border-top: dotted;
+  border color:black;
+  height:1px;
+  width:10%;
+  border-bottom: dotted;
+}
+h1 {
+  color:#070d59;
+}
+table {
+  font-variant: small-caps;
+  background-position: center;
+}
+h2 {
+  background-color: #d57149;
+}
+table {
+  background-color: #e89f71;
+}
